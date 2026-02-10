@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "Top Beginn": top-beginner-friendly-ai-coding-tools-for-new-deve.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
